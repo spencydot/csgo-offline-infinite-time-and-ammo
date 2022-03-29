@@ -1,0 +1,12 @@
+sv_cheats 1; 
+sv_infinite_ammo 1; 
+bot_kick;sv_grenade_trajectory 1; 
+sv_grenade_trajectory_time 20; 
+sv_showimpacts 1; 
+sv_showimpacts_time 10; 
+give weapon_ak47; 
+give weapon_decoy; 
+give weapon_flashbang; 
+give weapon_smokegrenade; 
+mp_roundtime 60; 
+mp_restartgame 1 
